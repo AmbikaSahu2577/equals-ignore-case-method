@@ -1,0 +1,13 @@
+class Equals_Ignore_Case
+{
+	public static void main(String[] args) 
+	{
+		
+		   String str1 = "ambika";
+		   String str2 = "AMBIKA";
+          
+          System.out.println(str1.equalsIgnoreCase(str2));
+
+		
+	}
+}
